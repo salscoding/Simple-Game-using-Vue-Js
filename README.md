@@ -1,2 +1,6 @@
 # Simple-Game-using-Vue-Js
- It's just a practice
+simple game using Vue 3
+
+## Preview
+
+![Preview Gif](Screenshots/ss.gif)
